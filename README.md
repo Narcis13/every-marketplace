@@ -1,6 +1,6 @@
 # Every Marketplace
 
-The official Every marketplace where engineers from Every.to share their workflows. Currently featuring the Compounding Engineering Philosophy plugin.
+The official Every marketplace where engineers from Every.to and Narcis share their workflows. Currently featuring the Compounding Engineering Philosophy plugin.
 
 ## Quick Start
 
